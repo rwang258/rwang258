@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @rwang258
 - 👀 I’m interested in the intersection of machine learning and social science.
-- 🌱 I’m currently working on developing a machine learning model to improve the efficacy of clinical abstract search queries.
+- 🌱 I’m currently working on applying ML to a corpus of medical abstracts.
 - 💞️ I’m looking to collaborate on any project involving machine learning that has a high impact.
 - 📫 You can reach me at my email: rcw258@cornell.edu
 
